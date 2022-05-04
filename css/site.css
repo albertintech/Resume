@@ -84,6 +84,7 @@ body {
 }
 
 /* //-- core typography and style -- */
+/* --hd-- */
 #hd h1 {
     font-size: 48px;
     text-transform: uppercase;
@@ -148,7 +149,7 @@ p.enlarge span {
 }
 
 .last {
-    border-bottom: 0
+    border-bottom: 1em
 }
 
 
@@ -189,7 +190,7 @@ a#pdf:hover {
     border: none;
 }
 
-.skills-list {}
+/* .skills-list {} */
 
 .skills-list ul {
     margin: 0;
